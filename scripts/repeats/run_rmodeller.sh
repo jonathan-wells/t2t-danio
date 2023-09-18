@@ -16,7 +16,7 @@ echo "RepeatModeler - processing T2T Danio rerio genome"
 /programs/RepeatModeler-2.0.1/RepeatModeler \
     -database "../../data/repeatmodeler-out/fish11t2t_rmodeler_database" \
     -LTRStruct \
-    -pa 5
+    -pa 9
 
 echo "RepeatModeler - Finished T2T Danio rerio"
 
